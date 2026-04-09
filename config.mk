@@ -1,1 +1,1 @@
-SRC+=__DIRNAME/src/asprintf.c
+SRC+={{module.dirname}}/src/asprintf.c
